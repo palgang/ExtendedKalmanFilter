@@ -34,6 +34,7 @@ class KalmanFilter {
    */
   void Predict();
 
+
   /**
    * Updates the state by using standard Kalman Filter equations
    * @param z The measurement at k+1
